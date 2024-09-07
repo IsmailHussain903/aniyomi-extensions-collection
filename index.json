@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Aniyomi: AniWorld",
+    "pkg": "eu.kanade.tachiyomi.animeextension.de.aniworld",
+    "apk": "aniyomi-de.aniworld-v14.24.apk",
+    "lang": "de",
+    "code": 24,
+    "version": "14.24",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AniWorld",
+        "lang": "de",
+        "id": "8286900189409315836",
+        "baseUrl": "https://aniworld.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Animension",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.animension",
+    "apk": "aniyomi-en.animension-v14.20.apk",
+    "lang": "en",
+    "code": 20,
+    "version": "14.20",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animension",
+        "lang": "en",
+        "id": "2900367084614267279",
+        "baseUrl": "https://animension.to/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AnimePahe",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
+    "apk": "aniyomi-en.animepahe-v14.27.apk",
+    "lang": "en",
+    "code": 27,
+    "version": "14.27",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AnimePahe",
+        "lang": "en",
+        "id": "9163675745699695675",
+        "baseUrl": "https://animepahe.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AniPlay",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.aniplay",
+    "apk": "aniyomi-en.aniplay-v14.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "14.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AniPlay",
+        "lang": "en",
+        "id": "7191632168234158173",
+        "baseUrl": "https://aniplaynow.live",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Gogoanime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.gogoanime",
+    "apk": "aniyomi-en.gogoanime-v14.84.apk",
+    "lang": "en",
+    "code": 84,
+    "version": "14.84",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Gogoanime",
+        "lang": "en",
+        "id": "7055547649318749672",
+        "baseUrl": "https://anitaku.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: KickAssAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.kickassanime",
+    "apk": "aniyomi-en.kickassanime-v14.43.apk",
+    "lang": "en",
+    "code": 43,
+    "version": "14.43",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KickAssAnime",
+        "lang": "en",
+        "id": "2081771513481539599",
+        "baseUrl": "https://kaas.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Aniwave",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.nineanime",
+    "apk": "aniyomi-en.nineanime-v14.74.apk",
+    "lang": "en",
+    "code": 74,
+    "version": "14.74",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Aniwave",
+        "lang": "en",
+        "id": "98855593379717478",
+        "baseUrl": "https://aniwave.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: HiAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
+    "apk": "aniyomi-en.zoro-v14.43.apk",
+    "lang": "en",
+    "code": 43,
+    "version": "14.43",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HiAnime",
+        "lang": "en",
+        "id": "6706411382606718900",
+        "baseUrl": "https://hianime.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AniPlay",
+    "pkg": "eu.kanade.tachiyomi.animeextension.it.aniplay",
+    "apk": "aniyomi-it.aniplay-v14.11.apk",
+    "lang": "it",
+    "code": 11,
+    "version": "14.11",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AniPlay",
+        "lang": "it",
+        "id": "9100732207446736332",
+        "baseUrl": "https://aniplaynow.live/",
+        "versionId": 2
+      }
+    ]
+  }
+]
